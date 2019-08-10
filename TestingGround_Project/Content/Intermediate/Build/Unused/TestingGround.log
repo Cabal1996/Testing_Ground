@@ -1,0 +1,11 @@
+﻿  Creating makefile for hot reloading S04_TestingGroundEditor (source directory changed)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 8 processes...
+    [1/3] Tile.cpp
+    [2/3] UE4Editor-S04_TestingGround-7379.lib
+       Creating library D:\Send\TestingGround_Project\Intermediate\Build\Win64\UE4Editor\Development\S04_TestingGround\UE4Editor-S04_TestingGround-7379.lib and object D:\Send\TestingGround_Project\Intermediate\Build\Win64\UE4Editor\Development\S04_TestingGround\UE4Editor-S04_TestingGround-7379.exp
+    [3/3] UE4Editor-S04_TestingGround-7379.dll
+       Creating library D:\Send\TestingGround_Project\Intermediate\Build\Win64\UE4Editor\Development\S04_TestingGround\UE4Editor-S04_TestingGround-7379.suppressed.lib and object D:\Send\TestingGround_Project\Intermediate\Build\Win64\UE4Editor\Development\S04_TestingGround\UE4Editor-S04_TestingGround-7379.suppressed.exp
+  Deploying S04_TestingGroundEditor Win64 Development...
+  Total build time: 8.79 seconds (Parallel executor: 3.71 seconds)
